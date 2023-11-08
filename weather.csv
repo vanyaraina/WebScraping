@@ -1,0 +1,5 @@
+id,date,temperature,windspeed,event
+0,1 March 2024,25,6,rain
+1,2 March 2024,24,7,sun
+2,3 March 2024,26,8,windy
+3,4 March 2024,21,9,rain
